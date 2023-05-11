@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body header {
+  background-color: aqua;
+}
+body header ul {
+  padding: 7px 1rem 0 2rem;
+  margin-top: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=header.css.map */
